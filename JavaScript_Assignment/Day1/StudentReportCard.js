@@ -1,0 +1,16 @@
+var name="Rajat Tiwari";
+console.log("Student Name :",name);
+var college="Vartak College";
+console.log("School :",college);
+var section="A";
+console.log("Section :",section);
+var grade="o++";
+console.log("Grade :",grade);
+var rollno=57;
+console.log("Roll No :",rollno);
+var java=100;
+console.log("Subject Java :",java);
+var linux=100;
+console.log("Subject Linux :",linux);
+var python=100;
+console.log("Subject Python :",python);
